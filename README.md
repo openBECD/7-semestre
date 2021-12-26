@@ -1,1 +1,3 @@
-# 7-semestre
+# 7º semestre
+## Disciplinas
+- Mineração Estatística de Dados
